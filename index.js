@@ -1,7 +1,7 @@
 let a=[]
 let b=4
 for (let i=1;i<10;i++){
-  if(b%i==0){
+  if(c%i==0){
     a.push(b)
   }
 }
